@@ -1,15 +1,10 @@
-# Perfil: Daniel Aguilera Quero
+# Daniel Aguilera Quero
 
 Desarrollador web junior de Córdoba (España), titulado en CFGS Desarrollo de Aplicaciones Web (DAW, 2023–2025, modalidad dual). Busco mi primer empleo como desarrollador: frontend, backend o full-stack. Trabajo en Córdoba, en remoto desde España o con traslado a Sevilla, Málaga o Jaén según la oferta. Incorporación inmediata.
 
-## Contacto
-- Email: danielaguileraquero.dev@gmail.com
-- LinkedIn: linkedin.com/in/danielaguileraquero
-- GitHub: github.com/danielaguileraquero-dev
-
 ## Tecnologías
 - **Frontend:** HTML, CSS, JavaScript, TypeScript (strict), React (19), Next.js (15 y 16, App Router, server components, server actions), Tailwind CSS (v4, tokens con @theme), diseño responsive
-- **Backend y datos:** Python, SQL, PostgreSQL, Supabase (Auth, RLS, base de datos), APIs REST, GraphQL (consumo), PHP (básico); conocimiento de NestJS y Prisma como compañero de backend
+- **Backend y datos:** Python, SQL, PostgreSQL, Supabase (Auth, RLS, base de datos), APIs REST, GraphQL (consumo), PHP (básico); conocimiento de NestJS y Prisma.
 - **Autenticación:** Supabase Auth, OAuth, sesiones JWT (jose), rutas protegidas y acceso por roles
 - **Archivos y medios:** AWS S3 con subida por URL prefirmada, pdfjs-dist para miniaturas de PDF
 - **CMS y ERP:** WordPress, Elementor, Odoo (módulos en Python y XML)
@@ -77,3 +72,8 @@ Web multipágina con tienda, catálogo, carrito y pedido. HTML, CSS, JavaScript,
 - Español: nativo
 - Inglés: B2 (Trinity ISE II)
 - Francés: B1
+
+## Contacto
+- Email: danielaguileraquero.dev@gmail.com
+- LinkedIn: linkedin.com/in/danielaguileraquero
+- GitHub: github.com/danielaguileraquero-dev
